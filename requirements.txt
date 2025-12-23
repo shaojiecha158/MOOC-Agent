@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers
+peft
+gradio
+networkx
+scipy
+tiktoken
+einops
+accelerate
